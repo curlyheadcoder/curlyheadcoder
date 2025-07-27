@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **mayanksonwani0201@gmail.com**
 
+- Resume link *www.google.com*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/mayank-sonwani-a3a5a9129" target="blank">
