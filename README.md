@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **mayanksonwani0201@gmail.com**
 
-- Resume link *www.google.com*
+- Leetcode Profile *https://leetcode.com/u/Mayank2198/*
+
+- AccioJob Profile *https://course.acciojob.com/profile*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
